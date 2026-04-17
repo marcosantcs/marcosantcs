@@ -4,7 +4,7 @@
 
 **Building production-grade AI, Security & Data systems**
 
-![Python](https://img.shields.io/badge/Python-expert-00ff88?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-expert-00ff88?style=flat-square) ![Security](https://img.shields.io/badge/Security-expert-00ff88?style=flat-square) ![AI](https://img.shields.io/badge/AI/LLM-advanced-00ff88?style=flat-square)
+![Python](https://img.shields.io/badge/Python-expert-00ff88?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-expert-00ff88?style=flat-square) ![Security](https://img.shields.io/badge/Security-expert-00ff88?style=flat-square) ![AI](https://img.shields.io/badge/AI%2FLLM-advanced-00ff88?style=flat-square)
 
 </div>
 
@@ -26,11 +26,11 @@ Software developer and security researcher focused on automation, AI integration
 | Layer | Technologies |
 |---|---|
 | Languages | Python, Bash, C#, SQL |
-| Cloud | Oracle Cloud, AWS, Google Cloud (Vertex AI) |
+| Cloud | Multi-cloud infrastructure |
 | DevOps | Docker, Kubernetes, Terraform, GitHub Actions |
 | Security | OWASP, Nuclei, Shodan, Recon automation |
 | AI/ML | Llama 3, PEFT/LoRA, LangChain, Gemini API |
-| Monitoring | Prometheus, Grafana, ELK Stack |
+| Monitoring | Prometheus, Grafana |
 | Databases | PostgreSQL, Redis, MongoDB |
 
 ---
